@@ -1,1 +1,1 @@
-include ':example', ':library', ':x5demo', ':library-tbsx5'
+include ':example', ':lib_jsbridge_oswv', ':lib_jsbridge_tbsx5', ':x5demo'
